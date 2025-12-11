@@ -36,14 +36,14 @@ let package = Package(
     .binaryTarget(
       name: "InMobiAdapter",
       url:
-        "https://dl.google.com/googleadmobadssdk/mediation/ios/inmobi/InMobiAdapter-11.0.0.0.zip",
-      checksum: "ea85bb36a3568037a5cb83fbd44033fbc3185a8b85e7288c7375a45c690af2ea"
+        "https://dl.google.com/googleadmobadssdk/mediation/ios/inmobi/InMobiAdapter-11.1.0.0.zip",
+      checksum: "d1684d94691906a1c679fb21b9d6cb07c664aa0601bd8d2c91f77744b8340782"
     ),
     .binaryTarget(
       name: "InMobi-iOS-SDK",
       url:
-        "https://dl.inmobi.com/inmobi-sdk/IM/InMobi-iOS-SDK-11.0.0.zip",
-      checksum: "feca177cc17ee472c736268873dc66e157484ffe6add981375b802f4dc9bc1c0"
+        "https://dl.inmobi.com/inmobi-sdk/IM/InMobi-iOS-SDK-11.1.0.zip",
+      checksum: "94ee97c3fc99e0111db5dd89cc872ab52a88c52b2af96fa6cd246021a114a4ef"
     ),
   ]
 )
